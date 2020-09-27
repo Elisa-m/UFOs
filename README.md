@@ -7,9 +7,11 @@ The purpose of this project was to develop a webpage with dynamic tables that fi
 Simply use the Filter Search section to enter the date, city, state, country, and shape you wish to filter by. The UFO Sightings table will automatically filter.
 
 1. Filter Search section
+
 ![](static/images/Filters2.png)
 
 2. UFO Sightings table
+
 ![](static/images/Table.png)
 
 ## Summary
